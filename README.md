@@ -1,0 +1,1 @@
+**Basic framework for running an analytics project on Synapse without using dbt**
